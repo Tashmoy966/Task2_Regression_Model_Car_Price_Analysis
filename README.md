@@ -121,5 +121,5 @@ e = Error
 
 # Future Work
 
-1) Need to bring some improvemrnt in the data cleaning methods through standardised scaling non object variables.
+1) Need to implement more model on the data and classsify the best model for regression.
 2) Merging more classes for analysis (Efficiency rating, production rate based on area, effective selling month etc).
